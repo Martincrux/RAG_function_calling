@@ -1,0 +1,10 @@
+langchain
+langchain_openai
+langchain_community
+openai
+google.generativeai
+langchain_google_genai
+transformers
+torch
+accelerate
+faiss-cpu
