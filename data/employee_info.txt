@@ -1,0 +1,19 @@
+Himmeow hiện là Giám đốc của công ty. Số điện thoại liên lạc của anh là 0123456789 và địa chỉ email là himmeow.thecoder@gmail.com.
+
+Trần Thị Bình là thư ký của công ty. Chị Bình có số điện thoại là 01234567810 và địa chỉ email là binh.tran@example.com.
+
+Lê Văn Thành là nhân viên của công ty. Anh Thành có thể được liên lạc qua số điện thoại 01234567811 hoặc địa chỉ email thanh.le@example.com.
+
+Phạm Thị Thu là nhân viên của công ty. Chị Thu có số điện thoại là 01234567812 và địa chỉ email là thu.pham@example.com.
+
+Hoàng Văn Đức là nhân viên của công ty.  Anh Đức có thể được liên lạc qua số điện thoại 01234567813 hoặc địa chỉ email duc.hoang@example.com.
+
+Vũ Thị Hoa là nhân viên của công ty. Chị Hoa có số điện thoại là 01234567814 và địa chỉ email là hoa.vu@example.com.
+
+Đỗ Văn Minh là nhân viên của công ty.  Anh Minh có thể được liên lạc qua số điện thoại 01234567815 hoặc địa chỉ email minh.do@example.com.
+
+Nguyễn Thị Lan là nhân viên của công ty. Chị Lan có số điện thoại là 01234567816 và địa chỉ email là lan.nguyen@example.com.
+
+Trương Văn Nam là nhân viên của công ty.  Anh Nam có thể được liên lạc qua số điện thoại 01234567817 hoặc địa chỉ email nam.truong@example.com.
+
+Lý Thị Hà là nhân viên của công ty. Chị Hà có số điện thoại là 01234567818 và địa chỉ email là ha.ly@example.com.
