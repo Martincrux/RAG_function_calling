@@ -22,7 +22,7 @@ GOOGLE_AI_API_KEY = "YOUR_GOOGLE_AI_API_KEY"
 
 Để có thời gian xử lý nhanh hơn, chúng tôi khuyên bạn nên chạy mô hình ViSTRAL trên Google Colab bằng cách sử dụng TPU. Bạn có thể tìm thấy hướng dẫn về cách thực hiện việc này tại:
 
-* [Hướng dẫn Google Colab]([https://github.com/google-research/scenic/blob/main/scenic/projects/RAG_function_calling/README.md#tpu-usage](https://colab.research.google.com/drive/18EnSHo3YkZfht_-0Sx-2exllJhzRuICW?usp=sharing))
+* [Hướng dẫn Google Colab](https://colab.research.google.com/drive/18EnSHo3YkZfht_-0Sx-2exllJhzRuICW?usp=sharing)
 
 Buy me a coffee:
 - Momo: 0374525177
