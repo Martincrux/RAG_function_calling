@@ -1,0 +1,196 @@
+{
+    "employees": [
+        {
+            "name": "Himmeow",
+            "age": "35",
+            "role": "Giám đốc",
+            "hometown": "Thành phố Hà Nội"
+        },
+        {
+            "name": "Trần Thị Bình",
+            "age": "28",
+            "role": "Thư ký",
+            "hometown": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "name": "Lê Văn Thành",
+            "age": "25",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Đà Nẵng"
+        },
+        {
+            "name": "Phạm Thị Thu",
+            "age": "27",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hải Phòng"
+        },
+        {
+            "name": "Hoàng Văn Đức",
+            "age": "26",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Quảng Ninh"
+        },
+        {
+            "name": "Vũ Thị Hoa",
+            "age": "24",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Thanh Hóa"
+        },
+        {
+            "name": "Đỗ Văn Minh",
+            "age": "29",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Nghệ An"
+        },
+        {
+            "name": "Nguyễn Thị Lan",
+            "age": "28",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hà Nội"
+        },
+        {
+            "name": "Trương Văn Nam",
+            "age": "26",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "name": "Lý Thị Hà",
+            "age": "27",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Đà Nẵng"
+        },
+        {
+            "name": "Nguyễn Văn An",
+            "age": "25",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hải Phòng"
+        },
+        {
+            "name": "Phạm Thị Hồng",
+            "age": "24",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Quảng Ninh"
+        },
+        {
+            "name": "Trần Văn Bình",
+            "age": "29",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Thanh Hóa"
+        },
+        {
+            "name": "Vũ Thị Thu",
+            "age": "28",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Nghệ An"
+        },
+        {
+            "name": "Đỗ Văn Đức",
+            "age": "26",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hà Nội"
+        },
+        {
+            "name": "Nguyễn Thị Hoa",
+            "age": "27",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "name": "Trương Văn Minh",
+            "age": "25",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Đà Nẵng"
+        },
+        {
+            "name": "Lý Thị Lan",
+            "age": "24",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hải Phòng"
+        },
+        {
+            "name": "Nguyễn Văn Nam",
+            "age": "29",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Quảng Ninh"
+        },
+        {
+            "name": "Phạm Thị Hà",
+            "age": "28",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Thanh Hóa"
+        },
+        {
+            "name": "Trần Văn An",
+            "age": "26",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Nghệ An"
+        },
+        {
+            "name": "Vũ Thị Hồng",
+            "age": "27",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hà Nội"
+        },
+        {
+            "name": "Đỗ Văn Bình",
+            "age": "25",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "name": "Nguyễn Thị Thu",
+            "age": "24",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Đà Nẵng"
+        },
+        {
+            "name": "Trương Văn Đức",
+            "age": "29",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hải Phòng"
+        },
+        {
+            "name": "Lý Thị Hoa",
+            "age": "28",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Quảng Ninh"
+        },
+        {
+            "name": "Nguyễn Văn Minh",
+            "age": "26",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Thanh Hóa"
+        },
+        {
+            "name": "Phạm Thị Lan",
+            "age": "27",
+            "role": "Nhân viên",
+            "hometown": "Tỉnh Nghệ An"
+        },
+        {
+            "name": "Trần Văn Nam",
+            "age": "25",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hà Nội"
+        },
+        {
+            "name": "Vũ Thị Hà",
+            "age": "24",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "name": "Đỗ Văn An",
+            "age": "29",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Đà Nẵng"
+        },
+        {
+            "name": "Nguyễn Thị Hồng",
+            "age": "28",
+            "role": "Nhân viên",
+            "hometown": "Thành phố Hải Phòng"
+        }
+    ]
+}
